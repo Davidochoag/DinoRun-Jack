@@ -51,3 +51,5 @@ Obstacle.jack: Controla las nubes/plataformas. Maneja su dibujo, movimiento en p
 Lenguaje: Jack (Alto nivel, orientado a objetos).  
 Plataforma: Hack Virtual Machine.
   ![Demo del Juego](assets/GameDemo.png)
+## Video Presentacion terminado
+https://youtu.be/uKCBN3wlC4I
